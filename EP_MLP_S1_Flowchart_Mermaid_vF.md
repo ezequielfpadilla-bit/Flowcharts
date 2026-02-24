@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: "S-1 Production Flowchart - Oil & Gas MLP IPO"
 ---
@@ -524,3 +525,4 @@ style SEC_AllCommentsCleared stroke:#000,fill:#000000,color:#FFF
 style SEC_FINRANoObjections stroke:#000,fill:#000000,color:#FFF
 style SEC_ExchangeApproved stroke:#000,fill:#000000,color:#FFF
 style SEC_DeclaresEffective stroke:#000,fill:#000000,color:#FFF
+```
